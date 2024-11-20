@@ -1,0 +1,35 @@
+{
+    "name": "@thcode-society/smokers-tokens",
+    "version": "1.0.0",
+    "description": "Style tokens for Design System",
+    "files": [
+        "scss"
+    ],
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "style-dictionary build"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DiegoreTHC/style-tokens-smokers.mx.git"
+    },
+    "keywords": [
+      "Style",
+      "Tokens",
+      "Figma",
+      "Figma",
+      "Style",
+      "Tokens",
+      "Style",
+      "Dictionary"
+    ],
+    "author": "Thc-Code A Frontend Society",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/DiegoreTHC//style-tokens-smokers.mx/issues"
+    },
+    "homepage": "https://github.com/DiegoreTHC//style-tokens-smokers.mx#readme",
+    "dependencies": {
+      "style-dictionary": "^4.0.0"
+    }
+  }
