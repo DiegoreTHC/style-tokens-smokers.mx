@@ -1,9 +1,9 @@
 {
     "name": "@thcode-society/smokers-tokens",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Style tokens for Design System",
     "files": [
-        "scss"
+      "scss"
     ],
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
