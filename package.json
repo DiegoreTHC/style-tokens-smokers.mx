@@ -1,6 +1,6 @@
 {
     "name": "@thcode-society/smokers-tokens",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Style tokens for Design System",
     "files": [
       "scss"
